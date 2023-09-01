@@ -32,3 +32,6 @@ The designs were created to the following widths:
 
 - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
 - Weights: 200, 400, 600
+
+### Vídeo para seguir el reto
+- https://www.youtube.com/watch?v=MIQPdsaOyDQ&list=PLJubkp8BnTJswvyI9GZN9AEb87D1PSKKL&index=6
